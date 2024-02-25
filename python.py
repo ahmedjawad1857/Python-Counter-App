@@ -1,8 +1,5 @@
 # Counter App
 
-import time
-
-
 class Counter:
     def __init__(self)->None:
         self.count:int = 0
